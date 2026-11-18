@@ -8,7 +8,7 @@ LinkedIn is a professional networking website used by students, faculty, and wor
 •	A valid email ID or phone number, to register the LinkedIn account
 •	A recent, clear passport-size photograph for the profile picture
 •	A short write-up of education, skills, and experience prepared beforehand, to copy into the profile sections
-•	(Optional) A background/cover image related to your institution or field, for the banner
+•	(Optional) A background/cover image related to your institution or field, for the banner 
 ## PROCEDURE
 ## Step 1: Preparing Your Information
 Before creating the profile, prepare the basic details offline in a document: full name, current designation (e.g., Professor, Student), institution name, location, a short “About” summary (3–4 lines), educational qualifications, work experience, and key skills. Preparing this in advance makes the profile creation process faster and avoids incomplete or hurried entries.
